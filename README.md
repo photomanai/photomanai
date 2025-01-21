@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/photoman.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/adil-abdulkerimov-881864312/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/photoman.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-abdulkerimov-881864312/) 
 
 
 # 💻 Tech Stack:
