@@ -5,11 +5,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/photoman.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-abdulkerimov-881864312/) 
-
-
-
-
-
+<br/><br/><br/><br/><br/>
 # 💻 Tech Stack:
 
 ## Frontend:
@@ -20,11 +16,7 @@
 
 ## Cybersecurity:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%234B92DB.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%23365E02.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%23F05033.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23D04A37.svg?style=for-the-badge&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%23FF6600.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-%23F00000.svg?style=for-the-badge&logo=hashcat&logoColor=white) ![Firewalls](https://img.shields.io/badge/Firewalls-%23FF0000.svg?style=for-the-badge&logo=firewall&logoColor=white) ![Wi-Fi Hacking](https://img.shields.io/badge/Wi--Fi_Hacking-%23F44336.svg?style=for-the-badge&logo=wifi&logoColor=white)
-
-
-
-
-
+<br/><br/><br/><br/><br/>
 # 🚀 My GitHub Projects
 
 Welcome to my GitHub repositories! Here, you’ll find a collection of my projects that showcase my skills in full-stack development, front-end development, mobile app development, and more. Feel free to explore and contribute! 💻
