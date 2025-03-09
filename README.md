@@ -55,6 +55,11 @@ These are my back-end projects where I have focused primarily on server-side dev
 - [TelegramSender - Back End](https://github.com/photomanai/TelegramSender)  
 - [bankApp - Back End](https://github.com/photomanai/bankApp)  
 
+## 🛡️ Cybersecurity Projects
+Here are the cybersecurity projects I’ve worked on, focusing on security assessments, penetration testing, and network security tools.
+
+- All is Private 🔒
+
 ## 🔧 Other Projects
 These projects cover a variety of interesting technologies and concepts that don’t fit into the above categories.
 
