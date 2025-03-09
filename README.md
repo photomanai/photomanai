@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 Current Focus: I am deeply immersed in building artificial intelligence applications and exploring deep learning. I am also working on backend development projects.<br><br>👯 Areas I'm Open to Collaborate: I am open to collaborating on innovative artificial intelligence projects, data analysis, and big data solutions. I thrive in teamwork and am always eager to develop projects with fresh ideas.<br><br>🤝 Areas I Need Help With: I need assistance in developing AI algorithms, integrating new AI modules, and keeping up with rapidly evolving technology trends. I am also seeking experience in optimizing backend systems and enhancing efficiency.<br><br>🌱 What I'm Currently Learning: I am focusing on staying updated with the latest developments and technologies in the field of artificial intelligence. I am delving deep into backend development to make my projects more effective and secure.<br><br>💬 Ask Me About: I am happy to assist you with frontend development, user interface design, and general knowledge topics. I also enjoy sharing my experiences in software development processes and project management.<br><br>⚡ Fun Fact: I take great pleasure in playing chess and spending time with logic puzzles. My love for nature drives me to enjoy hiking and exploring the great outdoors.
 
+💻 **Current Focus**: Full-stack development.  
+🔐 **Learning**: Exploring cybersecurity.  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/photoman.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-abdulkerimov-881864312/) 
