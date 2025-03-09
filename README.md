@@ -37,8 +37,7 @@ These are projects where I have focused primarily on front-end technologies like
 - [Weather - Front End](https://github.com/photomanai/Weather)  
 - [ZuialDemo - Front End](https://github.com/photomanai/ZuialDemo)  
 - [ReactCurrencyApp - Front End](https://github.com/photomanai/ReactCurrencyApp)  
-- [ReactTodoApp - Front End](https://github.com/photomanai/ReactTodoApp)  
-- [TicTacTouGameReact - Front End](https://github.com/photomanai/TicTacTouGameReact)  
+- [ReactTodoApp - Front End](https://github.com/photomanai/ReactTodoApp)   
 - [ECommerse - Front End](https://github.com/photomanai/ECommerse)  
 - [TodoSite - Front End](https://github.com/photomanai/TodoSite)  
 
@@ -63,7 +62,8 @@ These projects cover a variety of interesting technologies and concepts that don
 
 - [BlackJack - Other](https://github.com/photomanai/BlackJack)  
 - [SecretSanta - Other](https://github.com/photomanai/secretSanta)  
-- [BasicFileCompression - Other](https://github.com/photomanai/BasicFileCompression)  
+- [BasicFileCompression - Other](https://github.com/photomanai/BasicFileCompression)
+- [TicTacTouGameReact - Other](https://github.com/photomanai/TicTacTouGameReact) 
 
 ---
 
