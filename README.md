@@ -55,7 +55,7 @@ These are my back-end projects where I have focused primarily on server-side dev
 ## 🛡️ Cybersecurity Projects
 Here are the cybersecurity projects I’ve worked on, focusing on security assessments, penetration testing, and network security tools.
 
-- All is Private 🔒
+- [PortScanner - Cybersecurity](https://github.com/photomanai/PortScanner)
 
 ## 🔧 Other Projects
 These projects cover a variety of interesting technologies and concepts that don’t fit into the above categories.
