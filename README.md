@@ -22,7 +22,7 @@
 Welcome to my GitHub repositories! Here, you’ll find a collection of my projects that showcase my skills in full-stack development, front-end development, mobile app development, and more. Feel free to explore and contribute! 💻
 
 ## 🌍 Published Projects
-These are my full-stack projects where I have built both the front-end and back-end components of applications.
+These are the projects I have developed and deployed, where I handled both the front-end and back-end development.
 
 - [Devetly](https://devetly.vercel.app/)
 - [Portfolio](https://photomanai.github.io/Adils-portfolio/)
