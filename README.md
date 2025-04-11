@@ -21,6 +21,14 @@
 
 Welcome to my GitHub repositories! Here, you’ll find a collection of my projects that showcase my skills in full-stack development, front-end development, mobile app development, and more. Feel free to explore and contribute! 💻
 
+## 🌍 Published Projects
+These are my full-stack projects where I have built both the front-end and back-end components of applications.
+
+- [Devetly](https://devetly.vercel.app/)
+- [Portfolio](https://photomanai.github.io/Adils-portfolio/)
+- [Syno Films](https://synofilms-e2b37.web.app/)
+- [Syno Sites](https://syno-sites.vercel.app/)
+
 ## 🌐 Full Stack Projects
 These are my full-stack projects where I have built both the front-end and back-end components of applications.
 
