@@ -68,10 +68,11 @@ Here are the cybersecurity projects I’ve worked on, focusing on security asses
 ## 🔧 Other Projects
 These projects cover a variety of interesting technologies and concepts that don’t fit into the above categories.
 
+- [Ollama-cli-tool - Other](https://github.com/photomanai/ollama-cli-tool)
+- [BasicFileCompression - Other](https://github.com/photomanai/BasicFileCompression)
 - [BlackJack - Other](https://github.com/photomanai/BlackJack)  
 - [SecretSanta - Other](https://github.com/photomanai/secretSanta)  
-- [BasicFileCompression - Other](https://github.com/photomanai/BasicFileCompression)
-- [TicTacTouGameReact - Other](https://github.com/photomanai/TicTacTouGameReact) 
+- [TicTacTouGameReact - Other](https://github.com/photomanai/TicTacTouGameReact)
 
 ---
 
