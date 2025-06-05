@@ -32,6 +32,7 @@ These are the projects I have developed and deployed, where I handled both the f
 ## 🌐 Full Stack Projects
 These are my full-stack projects where I have built both the front-end and back-end components of applications.
 
+- [HabitTracker - Full Stack](https://github.com/photomanai/HabbitTracker)  
 - [anock - Full Stack](https://github.com/photomanai/anock)  
 - [bankApp - Full Stack](https://github.com/photomanai/bankApp)  
 
