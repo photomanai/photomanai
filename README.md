@@ -36,6 +36,13 @@ These are my full-stack projects where I have built both the front-end and back-
 - [anock - Full Stack](https://github.com/photomanai/anock)  
 - [bankApp - Full Stack](https://github.com/photomanai/bankApp)  
 
+## 🖥️ Back End Projects
+These are my back-end projects where I have focused primarily on server-side development, databases, and API design.
+
+- [WhatsappSender - Back End](https://github.com/photomanai/WhatsappMessageSender)  
+- [TelegramSender - Back End](https://github.com/photomanai/TelegramSender)  
+- [bankApp - Back End](https://github.com/photomanai/bankApp)  
+
 ## 💻 Front End Projects
 These are projects where I have focused primarily on front-end technologies like HTML, CSS, JavaScript, React, and more.
 
@@ -54,13 +61,6 @@ These are projects where I have focused primarily on front-end technologies like
 Here are the mobile apps I’ve developed, focusing on Android and iOS using React Native or other mobile development frameworks.
 
 - All is Private 🔒
-
-## 🖥️ Back End Projects
-These are my back-end projects where I have focused primarily on server-side development, databases, and API design.
-
-- [WhatsappSender - Back End](https://github.com/photomanai/WhatsappMessageSender)  
-- [TelegramSender - Back End](https://github.com/photomanai/TelegramSender)  
-- [bankApp - Back End](https://github.com/photomanai/bankApp)  
 
 ## 🛡️ Cybersecurity Projects
 Here are the cybersecurity projects I’ve worked on, focusing on security assessments, penetration testing, and network security tools.
