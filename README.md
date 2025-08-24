@@ -66,6 +66,7 @@ Here are the mobile apps I’ve developed, focusing on Android and iOS using Rea
 Here are the cybersecurity projects I’ve worked on, focusing on security assessments, penetration testing, and network security tools.
 
 - [PortScanner - Cybersecurity](https://github.com/photomanai/PortScanner)
+- [Esp8266CaptivePortal (Forked) - Cybersecurity](https://github.com/photomanai/ESP8266_WiFi_Captive_Portal)
 
 ## 🔧 Other Projects
 These projects cover a variety of interesting technologies and concepts that don’t fit into the above categories.
