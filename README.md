@@ -43,20 +43,6 @@ These are my back-end projects where I have focused primarily on server-side dev
 - [TelegramSender - Back End](https://github.com/photomanai/TelegramSender)  
 - [bankApp - Back End](https://github.com/photomanai/bankApp)  
 
-## 💻 Front End Projects
-These are projects where I have focused primarily on front-end technologies like HTML, CSS, JavaScript, React, and more.
-
-- [AppLab - Front End](https://github.com/photomanai/AppLab)  
-- [Penguen - Front End](https://github.com/photomanai/Penguen)  
-- [DarkAndYellow - Front End](https://github.com/photomanai/DarkAndYellow)  
-- [MassimoDuttiClone - Front End](https://github.com/photomanai/MassimoDuttiClone)  
-- [Weather - Front End](https://github.com/photomanai/Weather)  
-- [ZuialDemo - Front End](https://github.com/photomanai/ZuialDemo)  
-- [ReactCurrencyApp - Front End](https://github.com/photomanai/ReactCurrencyApp)  
-- [ReactTodoApp - Front End](https://github.com/photomanai/ReactTodoApp)   
-- [ECommerse - Front End](https://github.com/photomanai/ECommerse)  
-- [TodoSite - Front End](https://github.com/photomanai/TodoSite)  
-
 ## 📱 App Projects
 Here are the mobile apps I’ve developed, focusing on Android and iOS using React Native or other mobile development frameworks.
 
@@ -77,6 +63,20 @@ These projects cover a variety of interesting technologies and concepts that don
 - [BlackJack - Other](https://github.com/photomanai/BlackJack)  
 - [SecretSanta - Other](https://github.com/photomanai/secretSanta)  
 - [TicTacTouGameReact - Other](https://github.com/photomanai/TicTacTouGameReact)
+
+## 💻 Front End Projects
+These are projects where I have focused primarily on front-end technologies like HTML, CSS, JavaScript, React, and more.
+
+- [AppLab - Front End](https://github.com/photomanai/AppLab)  
+- [Penguen - Front End](https://github.com/photomanai/Penguen)  
+- [DarkAndYellow - Front End](https://github.com/photomanai/DarkAndYellow)  
+- [MassimoDuttiClone - Front End](https://github.com/photomanai/MassimoDuttiClone)  
+- [Weather - Front End](https://github.com/photomanai/Weather)  
+- [ZuialDemo - Front End](https://github.com/photomanai/ZuialDemo)  
+- [ReactCurrencyApp - Front End](https://github.com/photomanai/ReactCurrencyApp)  
+- [ReactTodoApp - Front End](https://github.com/photomanai/ReactTodoApp)   
+- [ECommerse - Front End](https://github.com/photomanai/ECommerse)  
+- [TodoSite - Front End](https://github.com/photomanai/TodoSite)  
 
 ---
 
