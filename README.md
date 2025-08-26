@@ -36,6 +36,13 @@ These are my full-stack projects where I have built both the front-end and back-
 - [anock - Full Stack](https://github.com/photomanai/anock)  
 - [bankApp - Full Stack](https://github.com/photomanai/bankApp)  
 
+## 🛡️ Cybersecurity Projects
+Here are the cybersecurity projects I’ve worked on, focusing on security assessments, penetration testing, and network security tools.
+
+- [PortScanner - Cybersecurity](https://github.com/photomanai/PortScanner)
+- [MacChanger - Cybersecurity](https://github.com/photomanai/MacChanger)
+- [Esp8266CaptivePortal (Forked) - Cybersecurity](https://github.com/photomanai/ESP8266_WiFi_Captive_Portal)
+
 ## 🖥️ Back End Projects
 These are my back-end projects where I have focused primarily on server-side development, databases, and API design.
 
@@ -47,13 +54,6 @@ These are my back-end projects where I have focused primarily on server-side dev
 Here are the mobile apps I’ve developed, focusing on Android and iOS using React Native or other mobile development frameworks.
 
 - All is Private 🔒
-
-## 🛡️ Cybersecurity Projects
-Here are the cybersecurity projects I’ve worked on, focusing on security assessments, penetration testing, and network security tools.
-
-- [PortScanner - Cybersecurity](https://github.com/photomanai/PortScanner)
-- [MacChanger - Cybersecurity](https://github.com/photomanai/MacChanger)
-- [Esp8266CaptivePortal (Forked) - Cybersecurity](https://github.com/photomanai/ESP8266_WiFi_Captive_Portal)
 
 ## 🔧 Other Projects
 These projects cover a variety of interesting technologies and concepts that don’t fit into the above categories.
