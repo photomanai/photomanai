@@ -34,6 +34,7 @@ These are the projects I have developed and deployed, where I handled both the f
 Here are the cybersecurity projects I’ve worked on, focusing on security assessments, penetration testing, and network security tools.
 
 - [PortScanner - Cybersecurity](https://github.com/photomanai/PortScanner)
+- [NetScanner - Cybersecurity](https://github.com/photomanai/NetScaner)
 - [MacChanger - Cybersecurity](https://github.com/photomanai/MacChanger)
 - [Esp8266CaptivePortal (Forked) - Cybersecurity](https://github.com/photomanai/ESP8266_WiFi_Captive_Portal)
 
