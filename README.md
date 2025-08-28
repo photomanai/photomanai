@@ -48,6 +48,7 @@ These are my back-end projects where I have focused primarily on server-side dev
 ## 🌐 Full Stack Projects
 These are my full-stack projects where I have built both the front-end and back-end components of applications.
 
+- [WebVideoChat - Full Stack](https://github.com/photomanai/WebVideoChat)
 - [HabitTracker - Full Stack](https://github.com/photomanai/HabbitTracker)  
 - [anock - Full Stack](https://github.com/photomanai/anock)  
 - [bankApp - Full Stack](https://github.com/photomanai/bankApp)
