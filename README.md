@@ -48,10 +48,8 @@ These are my back-end projects where I have focused primarily on server-side dev
 ## 🌐 Full Stack Projects
 These are my full-stack projects where I have built both the front-end and back-end components of applications.
 
-- [WebVideoChat - Full Stack](https://github.com/photomanai/WebVideoChat)
-- [HabitTracker - Full Stack](https://github.com/photomanai/HabbitTracker)  
+- [WebVideoChat - Full Stack](https://github.com/photomanai/WebVideoChat) 
 - [anock - Full Stack](https://github.com/photomanai/anock)  
-- [bankApp - Full Stack](https://github.com/photomanai/bankApp)
 
 ## 📱 App Projects
 Here are the mobile apps I’ve developed, focusing on Android and iOS using React Native or other mobile development frameworks.
@@ -80,6 +78,7 @@ These are projects where I have focused primarily on front-end technologies like
 - [ReactTodoApp - Front End](https://github.com/photomanai/ReactTodoApp)   
 - [ECommerse - Front End](https://github.com/photomanai/ECommerse)  
 - [TodoSite - Front End](https://github.com/photomanai/TodoSite)  
+- [HabitTracker - Full Stack](https://github.com/photomanai/HabbitTracker) 
 
 ---
 
