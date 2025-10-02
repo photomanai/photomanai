@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-💻 **Current Focus**: Full-stack development.  
+💻 **Current Focus**: Cybersecurity.  
 🔐 **Learning**: Cybersecurity.  
 
 ## 🌐 Socials:
