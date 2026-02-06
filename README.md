@@ -44,47 +44,29 @@ Here are the cybersecurity projects I’ve worked on, focusing on security asses
 - [MacChange - Cybersecurity](https://github.com/photomanai/MacChange)
 - [Esp8266CaptivePortal (Forked) - Cybersecurity](https://github.com/photomanai/ESP8266_WiFi_Captive_Portal)
 
-## 🖥️ Back End Projects
-These are my back-end projects where I have focused primarily on server-side development, databases, and API design.
+## 🌐 Full Stack, Backend & Frontend Projects
+A collection of my work spanning Full Stack applications, robust Backend systems, and interactive Frontend interfaces, demonstrating my ability to build complete, end-to-end digital solutions.
 
-- [WhatsappSender - Back End](https://github.com/photomanai/WhatsappMessageSender)  
-- [TelegramSender - Back End](https://github.com/photomanai/TelegramSender)  
-- [bankApp - Back End](https://github.com/photomanai/bankApp)
-
-## 🌐 Full Stack Projects
-These are my full-stack projects where I have built both the front-end and back-end components of applications.
-
-- [WebVideoChat - Full Stack](https://github.com/photomanai/WebVideoChat) 
-- [anock - Full Stack](https://github.com/photomanai/anock)  
-
-## 📱 App Projects
-Here are the mobile apps I’ve developed, focusing on Android and iOS using React Native or other mobile development frameworks.
-
-- All is Private 🔒
+- [LinkShorter - Full Stack](https://github.com/photomanai/LinkShorter)
+- [WebVideoChat - Full Stack](https://github.com/photomanai/WebVideoChat)
+- [ScreenShare - Full Stack](https://github.com/photomanai/ScreenShare)
+- [WhatsappSender - Back End](https://github.com/photomanai/WhatsappMessageSenderV2)
+- [WhatsappSender - Back End](https://github.com/photomanai/WhatsappMessageSender)
+- [TelegramSender - Back End](https://github.com/photomanai/TelegramSender)
+- [QrGenerator - Front End](https://github.com/photomanai/qrGenerator)
 
 ## 🔧 Other Projects
 These projects cover a variety of interesting technologies and concepts that don’t fit into the above categories.
 
 - [Ollama-cli-tool - Other](https://github.com/photomanai/ollama-cli-tool)
 - [BasicFileCompression - Other](https://github.com/photomanai/BasicFileCompression)
-- [BlackJack - Other](https://github.com/photomanai/BlackJack)  
-- [SecretSanta - Other](https://github.com/photomanai/secretSanta)  
-- [TicTacTouGameReact - Other](https://github.com/photomanai/TicTacTouGameReact)
+- [BlackJack - Other](https://github.com/photomanai/BlackJack)
 
-## 💻 Front End Projects
-These are projects where I have focused primarily on front-end technologies like HTML, CSS, JavaScript, React, and more.
+## 📱 App Projects
+Here are the mobile apps I’ve developed, focusing on Android and iOS using React Native or other mobile development frameworks.
 
-- [AppLab - Front End](https://github.com/photomanai/AppLab)  
-- [Penguen - Front End](https://github.com/photomanai/Penguen)  
-- [DarkAndYellow - Front End](https://github.com/photomanai/DarkAndYellow)  
-- [MassimoDuttiClone - Front End](https://github.com/photomanai/MassimoDuttiClone)  
-- [Weather - Front End](https://github.com/photomanai/Weather)  
-- [ZuialDemo - Front End](https://github.com/photomanai/ZuialDemo)  
-- [ReactCurrencyApp - Front End](https://github.com/photomanai/ReactCurrencyApp)  
-- [ReactTodoApp - Front End](https://github.com/photomanai/ReactTodoApp)   
-- [ECommerse - Front End](https://github.com/photomanai/ECommerse)  
-- [TodoSite - Front End](https://github.com/photomanai/TodoSite)  
-- [HabitTracker - Full Stack](https://github.com/photomanai/HabbitTracker) 
+- All is Private 🔒
+
 
 ---
 
