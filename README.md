@@ -2,12 +2,12 @@
 
 💻 **Current Focus**: Cybersecurity.  
 🔐 **Learning**: Cybersecurity.  
-📷**Personal Site**: [photoman.me](https://photoman.me)
+📷 **Personal Site**: [photoman.me](https://photoman.me)
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-abdulkerimov-881864312/) <br/>
-<br/><br/><br/>
+<br/>
 # 💻 Tech Stack:
 
 ## Cybersecurity:
