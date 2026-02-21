@@ -3,8 +3,11 @@
 💻 **Current Focus**: Cybersecurity.  
 🔐 **Learning**: Cybersecurity.  
 
+
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/photoman.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-abdulkerimov-881864312/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-abdulkerimov-881864312/) <br/>
+[photoman.me](https://photoman.me)
 <br/><br/><br/>
 # 💻 Tech Stack:
 
