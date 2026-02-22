@@ -28,7 +28,6 @@ Welcome to my GitHub repositories! Here, you’ll find a collection of my projec
 These are the projects I have developed and deployed, where I handled both the front-end and back-end development.
 
 - [Devetly](https://devetly.vercel.app/)
-- [Portfolio](https://photomanai.github.io/Adils-portfolio/)
 - [Syno Films](https://synofilms-e2b37.web.app/)
 - [Syno Sites](https://syno-sites.vercel.app/)
 
