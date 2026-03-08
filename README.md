@@ -30,6 +30,7 @@ These are the projects I have developed and deployed, where I handled both the f
 - [Devetly](https://devetly.vercel.app/)
 - [Syno Films](https://synofilms-e2b37.web.app/)
 - [Syno Sites](https://syno-sites.vercel.app/)
+- [Link Shorter](https://shortlink.photoman.me/panel)
 
 ## 🛡️ Cybersecurity Projects
 Here are the cybersecurity projects I’ve worked on, focusing on security assessments, penetration testing, and network security tools.
