@@ -63,6 +63,7 @@ A collection of my work spanning Full Stack applications, robust Backend systems
 These projects cover a variety of interesting technologies and concepts that don’t fit into the above categories.
 
 - [Ollama-cli-tool - Other](https://github.com/photomanai/ollama-cli-tool)
+- [Exel - other](https://github.com/photomanai/Exel)
 - [BasicFileCompression - Other](https://github.com/photomanai/BasicFileCompression)
 - [BlackJack - Other](https://github.com/photomanai/BlackJack)
 
